@@ -1,3 +1,20 @@
+## Project Discontinuation Notice
+
+This unofficial Jio Saavn API project is being discontinued and the repository will be archived.
+
+Reason for discontinuation:
+
+- Potential conflict with Jio Saavn's terms of service
+
+Recommendations:
+
+1. Users are advised to explore official channels for accessing Jio Saavn data.
+2. Consider alternative music streaming APIs that offer official developer support.
+
+I appreciate the community's interest and contributions to this project. Thank you for your understanding.
+
+Note: This repository will remain available in read-only mode for reference purposes.
+
 <h1 align="center">
 <br>
 <img src="https://telegra.ph/file/3f4ec4d689573bd4de154.png" alt="Jiosaavn API" width="300">
